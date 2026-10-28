@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "71229000000022040",
+      "name": "product-search-app",
+      "domain": {
+        "id": "50046846017",
+        "name": "product-search-app-60088110827.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60088110827",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
